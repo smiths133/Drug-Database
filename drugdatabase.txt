@@ -64,7 +64,8 @@ Celecoxib 200 mg Capsule
  13668-0442-01
 Cephalexin 500 mg Capsule
  68180-0122-02 
-CHLORTHALIDON E 25 MG
+CHLORTHALIDONE 25 MG
+43598-0719-01
 Ciprofloxacin 500 mg Tablet
  55111-0127-01 
 Citalopram 20 mg Tablet
@@ -248,7 +249,6 @@ Mirtazapine 15 mg Tablet
  13107-0031-05 
 MONTELUKAST 10  
 68645-0560-54 
-
 Montelukast Sodium 10 mg Tablet
  31722-0726-10
 Morphine Sulfate Er 15 mg Tablet
@@ -256,7 +256,7 @@ Morphine Sulfate Er 15 mg Tablet
 Naproxen 500 mg Tablet
  68462-0190-05 
 Nitrofurantoin Monohydrate/Macro crystals 100 mg Capsule
- 47781-0303-01 8R 233 319
+ 47781-0303-01
 Omeprazole Dr 20 mg Capsule
  55111-0158-10
 Omeprazole Dr 20 mg Capsule
