@@ -141,7 +141,7 @@ Hydrochlorothiazide 12.5 mg Tablet
 Hydrochlorothiazide 25 mg Tablet
  16729-0183-17 
 Hydrocodone Bitartrate/Apap 10/325 mg/mg Tablet
- 00406-0125-05 
+ 53746-0110-05
 Hydrocodone Bitartrate/Apap 5/325 mg/mg Tablet
  00406-0123-05 
 Hydrocodone Bitartrate/Apap 7.5/325 mg/mg Tablet
@@ -247,8 +247,6 @@ Minocycline Hcl 100 mg Capsule
  13668-0484-50
 Mirtazapine 15 mg Tablet
  13107-0031-05 
-MONTELUKAST 10  
-68645-0560-54 
 Montelukast Sodium 10 mg Tablet
  31722-0726-10
 Morphine Sulfate Er 15 mg Tablet
@@ -351,5 +349,3 @@ Venlafaxine Hcl Er 75 mg Capsule
  65862-0528-99 
 Zolpidem Tartrate 10 mg Tablet
  13668-0008-05 
-Zolpidem Tartrate 5  mg Tablet
- 13668-0007-01 
